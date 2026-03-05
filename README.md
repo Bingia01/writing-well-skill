@@ -1,4 +1,6 @@
-# /writing-well — A Claude Code Skill
+# /writing-well - A Claude Code Skill
+
+(Built from On Writing Well, by William Zinsser)
 
 Review and improve any writing using William Zinsser's *On Writing Well* principles.
 
