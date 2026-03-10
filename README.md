@@ -1,4 +1,4 @@
-# /writing-well - A Claude Code Skill
+# /writing-well as a Claude Code Skill
 
 (Built from *_On Writing Well_*, by William Zinsser)
 
